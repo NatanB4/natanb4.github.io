@@ -14,27 +14,27 @@ timezone: "America/Sao_Paulo"
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "NatanB4" # the main title
+title: 'NatanB4' # the main title
 
-tagline: "Algo" # it will display as the sub-title
+tagline: 'Algo' # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Portfolio/Blog do Natã Barbosa.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://natanb4.github.io"
+url: 'https://natanb4.github.io'
 
 github:
-  username: "NatanB4" # change to your github username
+  username: 'NatanB4' # change to your github username
 
 twitter:
-  username: "natanbhl" # change to your twitter username
+  username: 'natanbhl' # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: "Natã Barbosa"
+  name: 'Natã Barbosa'
   email: natanbarbosa027@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://avatars.githubusercontent.com/u/89656623?v=4"
+avatar: 'https://avatars.githubusercontent.com/u/89656623?v=4'
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
